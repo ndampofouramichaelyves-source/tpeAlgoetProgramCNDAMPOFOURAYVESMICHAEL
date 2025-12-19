@@ -20,3 +20,35 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Fichiers d'exécution
+*.exe
+*.out
+*.o
+
+# Fichiers de compilation
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.so
+
+# Fichiers temporaires
+*.swp
+*~
+.directory
+.DS_Store
+Thumbs.db
+
+# Dossiers de build
+build/
+Debug/
+Release/
+bin/
+obj/
+
+# Fichiers spécifiques IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.user
